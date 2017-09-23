@@ -23,11 +23,11 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+title: Tina's Blog
+description: "Created for DCSI 521 lab 3."
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:
+  name: Tina Qian
   job_title:
   location:
   email:
@@ -35,15 +35,15 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/TinaQian2017
     - name: instagram
       url:
     - name: linkedin
       url:
     - name: stackoverflow
-      url:
+      url: https://stackoverflow.com/users/8658171/tina-qian
     - name: twitter
-      url: 
+      url:
     - name: vk
       url:
 home:
@@ -56,7 +56,7 @@ blog:
   footer_content: A gem-based responsive simple texture styled Jekyll theme.
 
 disqus:
-  shortname:
+  shortname: QY
   public_key:
 google_analytics:
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
